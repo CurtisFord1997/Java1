@@ -1,0 +1,37 @@
+Page 105,106 Programming Exercises 1-3
+
+1.
+ a. 16
+ b. 10
+ c. 11
+ d. 8
+ e. 4
+ f. 3
+ g. 4
+ h. 26
+ i. 2
+ j. 0
+
+2
+ a. false
+ b. true
+ c. true
+ d. true
+ e. true
+ f. false
+ g. false
+ h. true
+ i. true
+ j. false
+
+3
+ a. byte
+ b. char
+ c. long, integers can only get up to 2.xxx billion, we have over 7 billon.   
+ d. int, Las Angeles County, Ca is the largest at 10.1 mil people.    https://www.thoughtco.com/largest-counties-by-population-1435134
+ e. short, the largest bus available is a 300 passenger bus in china.   https://inhabitat.com/worlds-largest-bus-chinas-300-passenger-youngman-jnp6250g-set-to-serve-beijing-and-hangzhou/
+ f. short, i've gotten scores way over 128, and you deserve to break the program if you get more than a short can hold
+ g. byte... have you ever seen a game get over 127, let alone 50 combined?
+ h. string, AD, vs BC also there are different callendars than the one we use today.
+ i. short if you are including insects, byte if not.
+ j. double, there is always a .99 on there, they want as much money as they can get.

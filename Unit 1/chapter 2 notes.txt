@@ -1,0 +1,4 @@
+primitive data types: char, int, double, float, boolean, etc.
+
+reference data types: string, any object
+pg 48 prb 2
